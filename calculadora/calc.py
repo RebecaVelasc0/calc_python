@@ -20,7 +20,6 @@ def mult():
 
 
 operador = 1
-continuar = 1
 
 while operador:
         print("Operadores da calculadora")
